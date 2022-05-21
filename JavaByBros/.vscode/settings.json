@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "Variable",
+        "SwitchVariables",
+        "MyFirstProgram",
+        "InputUtility",
+        "DialogueBox",
+        "conditionals"
+    ]
+}
